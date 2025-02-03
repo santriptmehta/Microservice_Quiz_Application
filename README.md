@@ -62,7 +62,7 @@ curl --location 'localhost:8765/question-service/question/addQuestion' \
     "option4":"session",
     "correctAnswer":"singleton",
     "category":"Java",
-    "difficultyLevel":"Medium"
+    "difficulty_Level":"Medium"
 }'
 
 <br><br>
